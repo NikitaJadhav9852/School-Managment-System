@@ -1,0 +1,73 @@
+body {
+font: sans-serif;
+
+}
+.btn-change1{
+height: 150px;
+width: 150px;
+background-image: url('../images/stud.png');
+margin: 20px;
+float: left;
+box-shadow: 0 0 1px #ccc;
+-webkit-transition: all 0.5s ease-in-out;
+border: 0px;
+color: #000000;
+}
+.btn-change1:hover{
+-webkit-transform: scale(1.1);}
+
+.btn-change2{
+height: 150px;
+width: 150px;
+background-image: url('../images/News.png');
+margin: 20px;
+float: left;
+box-shadow: 0 0 1px #ccc;
+-webkit-transition: all 0.5s ease-in-out;
+border: 0px;
+color: #000000;
+}
+.btn-change2:hover{
+-webkit-transform: scale(1.1);}
+
+.btn-change3{
+height: 150px;
+width: 150px;
+background-image: url('../images/Attendence.png');
+margin: 20px;
+float: left;
+box-shadow: 0 0 1px #ccc;
+-webkit-transition: all 0.5s ease-in-out;
+border: 0px;
+color: #000000;
+}
+.btn-change3:hover{
+-webkit-transform: scale(1.1);}
+
+.btn-change4{
+height: 150px;
+width: 150px;
+background-image: url('../images/Exam.png');
+margin: 20px;
+float: left;
+box-shadow: 0 0 1px #ccc;
+-webkit-transition: all 0.5s ease-in-out;
+border: 0px;
+color: #000000;
+}
+.btn-change4:hover{
+-webkit-transform: scale(1.1);}
+
+.btn-change5{
+height: 150px;
+width: 150px;
+background-image: url('../images/Fee.png');
+margin: 20px;
+float: left;
+box-shadow: 0 0 1px #ccc;
+-webkit-transition: all 0.5s ease-in-out;
+border: 0px;
+color: #000000;
+}
+.btn-change5:hover{
+-webkit-transform: scale(1.1);}

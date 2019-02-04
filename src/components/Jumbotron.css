@@ -1,0 +1,13 @@
+#intro
+{
+    background: url('../images/one.jpg') no-repeat center center;
+    background-size:cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron
+{
+    min-height: 600px;
+}
